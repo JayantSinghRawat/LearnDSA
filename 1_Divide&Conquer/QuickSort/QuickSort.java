@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class QuickSort {
     public static void printarr(int arr[]){

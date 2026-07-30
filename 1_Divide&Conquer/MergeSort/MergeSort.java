@@ -1,5 +1,5 @@
-// package 1_Divide&Conquer;
-import java.util.*;
+
+
 public class MergeSort {
     public static void printarr(int arr[]){
         for(int i:arr){
